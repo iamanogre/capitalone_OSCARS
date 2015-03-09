@@ -1,0 +1,68 @@
+RESULTS:
+==================
+Part 1: Popularity Ranking of Oscar Nominees 2015
+ From most popular to least
+1: Birdman
+2: The Grand Budapest Hotel
+3: Selma
+4: Whiplash
+5: American Sniper
+6: Boyhood
+7: The Theory of Everything
+8: The Imitation Game
+==================
+Part 2: Time Birdman was most tweeted about
+Most Tweeted about moment: 5:06PM or 9:06PM PST
+==================
+Part 3: State Activity
+ From Twitter Storm to Desert
+1: New York
+2: Texas
+3: California
+4: Washington
+5: Florida
+6: Ohio
+7: Indiana
+8: New Jersey
+9: Kansas
+10: Michigan
+11: Virginia
+12: Maryland
+13: Colorado
+14: Illinois
+15: Georgia
+16: Arizona
+17: Minnesota
+18: Oregon
+19: Oklahoma
+20: Wisconsin
+21: Pennsylvania
+22: Iowa
+23: Kentucky
+24: North Carolina
+25: Tennessee
+26: Missouri
+27: Massachusetts
+28: Utah
+29: Alabama
+30: Connecticut
+31: Louisiana
+32: South Carolina
+33: Arkansas
+34: Nebraska
+35: Nevada
+36: Maine
+37: Mississippi
+38: Rhode Island
+39: Delaware
+40: Montana
+41: Hawaii
+42: New Hampshire
+43: Idaho
+44: New Mexico
+45: Vermont
+46: Alaska
+47: South Dakota
+48: West Virginia
+49: Wyoming
+50: North Dakota
